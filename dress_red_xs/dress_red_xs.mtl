@@ -6,12 +6,9 @@ Ns 2.000000
 illum 2
 d 1.000000
 map_Kd 01_R204_G204_B204.png
-newmtl Silk_Duchess_Satin_FRONT_1743969
-Kd 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ns 83.552750
+newmtl FABRIC_1_FRONT_2152367
+Kd 0.729412 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
 illum 2
 d 1.000000
-map_Kd Silk_Duchess_Satin_FCL1PSS003_test1_COL_R194_G0_B0.png
-map_Kn Silk_Duchess_Satin_FCL1PSS003_test1_NRM.jpg
-map_Bump Silk_Duchess_Satin_FCL1PSS003_test1_NRM_100.jpg
