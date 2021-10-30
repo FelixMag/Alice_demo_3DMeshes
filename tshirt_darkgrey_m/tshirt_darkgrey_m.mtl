@@ -1,0 +1,21 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material3923098
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka 01.jpg
+map_Kd 01.jpg
+newmtl Cotton_40s_Stretch_Poplin_FRONT_30843
+Ka 0.038981 0.049182 0.062518
+Kd 0.151598 0.191272 0.243137
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka 40s_Stretch_Poplin_FCL1PSC013_test1_COL.jpg
+map_Kd 40s_Stretch_Poplin_FCL1PSC013_test1_COL.jpg
+map_Kn 40s_Stretch_Poplin_FCL1PSC013_test1_NRM.jpg
+map_Bump 40s_Stretch_Poplin_FCL1PSC013_test1_NRM_50.jpg
